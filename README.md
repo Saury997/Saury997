@@ -6,4 +6,4 @@ My current research focuses on **medical image analysis**🩺, including diagnos
 
 Beyond research, I enjoy *Go* (Weiqi)⚫⚪, *music*🎵, and *reading*📚. *Learn deeply, think clearly, live fully.*
 
-I welcome discussions and collaborations related to medical imaging, computer vision, and AI for healthcare. You are welcome to reach me via [email](mailto:20221543@s.hlju.edu.cn) or visit my [Google Scholar profile](https://scholar.google.com/citations?user=i7_TXpIAAAAJ&hl).
+I welcome discussions and collaborations related to medical imaging, computer vision, and AI for healthcare. You are welcome to reach me via [email](mailto:yangzj0113@126.com) or visit my [Google Scholar profile](https://scholar.google.com/citations?user=i7_TXpIAAAAJ&hl).
