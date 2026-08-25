@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Zongjian
+# Hi there 👋
 
 I am an Engineering Ph.D. student at the [IDEA Lab](https://idea.bme.shanghaitech.edu.cn/) (ShanghaiTech University), advised by [Prof. Dinggang Shen](https://scholar.google.com/citations?hl=zh-CN&user=v6VYQC8AAAAJ). I previously completed my undergraduate studies at Heilongjiang University under the supervision of [Prof. Jiquan Ma](https://scholar.google.com/citations?user=JaCe_K8AAAAJ&hl).
 
